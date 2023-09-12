@@ -1,3 +1,3 @@
-# Veja meu blog, lá tem toda explicação do código
+# Veja meu post no tabnews.
 
-https://venvafonsomedeiros.net/blog/post/14
+[Clique aqui!](https://www.tabnews.com.br/afonso2medeiros/nao-tenho-mais-pesadelos-com-injecao-de-dependencia)
